@@ -1,13 +1,13 @@
-# Hollow Knight Completionist Checklist
-A website which provides visitors with a completion checklist for Hollow Knight.  View it on [hollowknightchecklist.com](https://hollowknightchecklist.com/).
+# 空洞骑士完成度检查清单
+该项目来源于本站作者[Nebulatron](https://github.com/nebulatron). 本仓库仅为该项目做了汉化贡献(汉化地址：)https://pananxy.github.io/hollow-knight-checklist/docs/index_zh.html
 
-## What is this?
-This is intended to allow visitors to track their progress towards finishing the entire game.  It remembers your progress, is easy to use on mobile devices, and contains many links to the game's wiki for easy reference.
+## 这是什么？
+此功能旨在帮助访客追踪游戏通关进度。它会记录您的进度，在移动设备上也易于使用，并且包含许多指向游戏 Wiki 的链接，方便您参考。
 
-## Wishlist
-There are several features which would be nice to have, among them:
+## 主要功能
+有几个功能是值得拥有的，其中包括：
 
-- The ability to add the page to your device's home screen, so it can be used as an offline app for phones.  This would involve setting up a manifest.
-- Add in everything that doesn't actually contribute to the total percent.  For example, right now not all bosses are listed, only the required ones.
-- Grub list
-- List items having links to appropriate maps (probably not going to happen as the wiki tends to keep things nicely updated for us, but it would be handy)
+- 可以将页面添加到设备主屏幕，以便将其用作手机的离线应用。这需要设置清单。
+- 将所有实际上不计入总百分比的内容都添加进去。例如，目前并非所有 Boss 都列出，只列出了必需的 Boss。
+- 幼虫列表
+- 列出具有相应地图链接的项目（可能因为 wiki 持续更新而使此功能失效，但 wiki 真的很方便）
