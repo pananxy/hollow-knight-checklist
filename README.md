@@ -1,5 +1,5 @@
 # 空洞骑士完成度检查清单
-该项目来源于本站作者[Nebulatron](https://github.com/nebulatron). 本仓库仅为该项目做了汉化贡献[汉化地址:]https://pananxy.github.io/hollow-knight-checklist/
+该项目来源于本站作者[Nebulatron](https://github.com/nebulatron). 本仓库仅为该项目做了汉化贡献[汉化地址:](https://pananxy.github.io/hollow-knight-checklist/)
 
 ## 这是什么？
 此功能旨在帮助访客追踪游戏通关进度。它会记录您的进度，在移动设备上也易于使用，并且包含许多指向游戏 Wiki 的链接，方便您参考。
